@@ -1,0 +1,26 @@
+.DS_Store
+.idea
+*.?env
+venv
+
+
+*.swp
+*.pyo
+*.pyc
+
+*.sqlite3
+*.sqlite3-journal
+staticfiles/
+*.log
+_build/
+_source/
+_static/
+_templates
+
+# Unit test / coverage reports
+.tox
+.pytest_cache
+
+local_settings.py
+media
+*.env
