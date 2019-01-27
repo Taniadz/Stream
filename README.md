@@ -10,6 +10,8 @@ python client.py
 cd messages
 python manage.py runserver
 
+Note! Redis should be running.
+
 ### 4. Open in your browser http://127.0.0.1:8000/chat/alert/ 
 and wait, because 95% of the distribution lies within two standard deviations of the mean.
 
