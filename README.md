@@ -1,16 +1,17 @@
-### 1. Run Websocket Server in python
-python server.py
-
-### 2. Run Websocket client
-
-python client.py
-
-### 3. Go to the dir with manage.py file and run server
-
+### 1. Go to the dir with manage.py file and run server
 cd messages
+
 python manage.py runserver
 
 Note! Redis should be running.
+### 2. Run Websocket Server in python
+python server.py
+
+### 3. Run Websocket client
+
+python client.py
+
+
 
 ### 4. Open in your browser http://127.0.0.1:8000/chat/alert/ 
 and wait, because 95% of the distribution lies within two standard deviations of the mean.
