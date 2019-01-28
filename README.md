@@ -25,5 +25,6 @@ Server continuously sends numberand its sequence number sampling from a normal d
 Websocket client reads a stream server and for each value that over 2 standart deviation range of the mean 
 create an log message that includes a current timestamp, number and and its sequence number.
 
+Djano app shows alert messages from Part 2 in real-time using django channels.
 
 
